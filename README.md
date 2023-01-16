@@ -11,6 +11,3 @@ Hello, my name is Kevin Blanco and I'm a software engineer with a background in 
 ![](https://github-readme-stats.vercel.app/api?username=greensharpie&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=greensharpie&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=greensharpie&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=greensharpie&theme=radical&no-frame=false&no-bg=true&margin-w=4)
