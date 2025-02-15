@@ -1,5 +1,5 @@
 # About Me:
-Hello, my name is Kevin Blanco and I'm a Software Engineer with a background in healthcare. I have a wealth of experience in program management, and have recently transitioned into the field of software engineering. <br>I enjoy working collaboratively with teams to tackle complex challenges and am committed to continuously learning and refining my skills. My background in healthcare has provided me with a unique perspective, which I bring to my work as a developer. I look forward to growing further and contributing to meaningful projects in the future. 
+Hello, my name is Kevin Blanco and I'm a Software Engineer with a background in healthcare. After gaining experience in program management, I transitioned into software engineering where I’ve been able to apply my problem-solving skills and critical thinking from healthcare to software development. <br>I enjoy working collaboratively with teams to tackle complex challenges and am committed to continuously learning and refining my skills. My background in healthcare has provided me with a unique perspective, which I bring to my work as an engineer. I look forward to growing further and contributing to meaningful projects in the future. 
 
 
 ## 🌐 Socials:
